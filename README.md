@@ -1,8 +1,10 @@
 # ![Image](Instagram2016_white-(64px).png) Node.JS Instagram Tools
 
-* CODE BY CODEBYTEZ ( @CODEBYTEZ )
-* FIXING & TESTING BY SYNTAX (@CODEBYTEZ)
-* CODEBYTEZ |
+  [★]  * Node.JS Insta-autobots
+  [☆]  * CODE BY CODEBYTEZ (GITHUB @BYTEZCODE )
+  [★]  * FIXING & TESTING BY SYNTAX (@RAJANSHARMAA)
+  [☆]  * INSTAGRAM @CODEBYTEZ 
+  [★]  * YOUTUBE CODE BYTEZ
 
 
 ----
@@ -11,7 +13,7 @@
 
 ```
 $ git clone https://github.com/rajansharmaa/insta-autobots
-$ cd instagram-tools
+$ cd insta-autobots
 $ node index.js
 ```
 
@@ -42,6 +44,9 @@ $ node index.js
 
 ### Thanks to
 
-* CODE BY CODEBYTEZ ( @CODEBYTEZ )
-* FIXING & TESTING BY SYNTAX (@CODEBYTEZ)
-* CODEBYTEZ | 
+  ——————————————————  [THANKS TO]  ————————————————————
+  [★]  * Node.JS Insta-autobots
+  [☆]  * CODE BY CODEBYTEZ (GITHUB @BYTEZCODE )
+  [★]  * FIXING & TESTING BY SYNTAX (@RAJANSHARMAA)
+  [☆]  * INSTAGRAM @CODEBYTEZ 
+  [★]  * YOUTUBE CODE BYTEZ

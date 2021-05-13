@@ -1,9 +1,13 @@
 # ![Image](Instagram2016_white-(64px).png) Node.JS Instagram Tools
 
   [★]  * Node.JS Insta-autobots
+  
   [☆]  * CODE BY CODEBYTEZ (GITHUB @BYTEZCODE )
+  
   [★]  * FIXING & TESTING BY SYNTAX (@RAJANSHARMAA)
+  
   [☆]  * INSTAGRAM @CODEBYTEZ 
+  
   [★]  * YOUTUBE CODE BYTEZ
 
 
